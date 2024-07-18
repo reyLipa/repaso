@@ -1,3 +1,7 @@
+function saludar(){
+    alert("holaaa")
+}
+
 let cf, pv,cv, pe
 cf=Number(prompt("ingrese los costos fijos"))
 pv=Number(prompt("ingrese el precio de venta"))
